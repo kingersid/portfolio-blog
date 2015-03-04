@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Your awesome title</title>
+    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+</description>
+    <link>http://siddharth-kinger.in/</link>
+    <atom:link href="http://siddharth-kinger.in/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 01 Mar 2015 20:53:09 +0530</pubDate>
+    <lastBuildDate>Sun, 01 Mar 2015 20:53:09 +0530</lastBuildDate>
+    <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>How to tell if your design is any good.</title>
+        <description>&lt;p&gt;In this post, I am expressing my thoughts on Whatis design, and elaborating on the 10 principles of Good design by Dieter Ram ( Industrial Design : Braun Fame)&lt;/p&gt;
+
+&lt;p&gt;Design is a method of Problem solving. Design is so many things executed in so many ways. In the end it boils down to one thing. Design helps to solve a visual or physical problem.&lt;/p&gt;
+
+&lt;p&gt;A heuristic to know a good design from the not so good ones is that is should be undesigned. “The best designs are the ones which seem not designed at all”&lt;/p&gt;
+
+&lt;p&gt;Dieter Ram`s Ten principles of “Good design” &lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Innovative&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Makes a product useful&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Aesthetic&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Makes a product understable&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Unobtrusive&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Hones&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Long lasting&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Thorough&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Environmentally friendly&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;As little design as possible.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+</description>
+        <pubDate>Tue, 03 Feb 2015 17:42:00 +0530</pubDate>
+        <link>http://siddharth-kinger.in/design/blog/2015/02/03/What-is-design-and-how-to%20tell-if-its-any-good.html</link>
+        <guid isPermaLink="true">http://siddharth-kinger.in/design/blog/2015/02/03/What-is-design-and-how-to%20tell-if-its-any-good.html</guid>
+        
+        <category>Design</category>
+        
+        
+        <category>design</category>
+        
+        <category>blog</category>
+        
+      </item>
+    
+      <item>
+        <title>Illustrator bliss</title>
+        <description>&lt;p&gt;This illustration was pretty hard for me to create. you can see how well it has been crafted. The feeling one gets after seeing this illustration is that they are near to the beach and having great fun,&lt;/p&gt;
+
+&lt;p&gt;I have tried to use basic shape creation tools and very liitle pen tools. This is very interesting illustration &lt;/p&gt;
+</description>
+        <pubDate>Sun, 01 Feb 2015 15:54:00 +0530</pubDate>
+        <link>http://siddharth-kinger.in/portfolio/branding/illustration/2015/02/01/Learn-intermediate-illustrator.html</link>
+        <guid isPermaLink="true">http://siddharth-kinger.in/portfolio/branding/illustration/2015/02/01/Learn-intermediate-illustrator.html</guid>
+        
+        <category>Illustration</category>
+        
+        
+        <category>portfolio</category>
+        
+        <category>branding</category>
+        
+        <category>illustration</category>
+        
+      </item>
+    
+  </channel>
+</rss>
